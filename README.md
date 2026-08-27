@@ -1,4 +1,4 @@
-# COMP3810SEF-2026
+# cloudserver-2026
 
 ## lab01
 - Virtual Machine
