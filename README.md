@@ -8,4 +8,10 @@
 - An `openweather` Node.js app
 - Get Started with Mongo Shell 
 
+## lab03
+- Mongosh Command Exercises
+
+## lab04
+- JSON handling in Node.js
+
 ## to be updated
