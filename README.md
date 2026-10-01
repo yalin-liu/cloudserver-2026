@@ -14,4 +14,8 @@
 ## lab04
 - JSON handling in Node.js
 
+## lab05
+- MongoDB Node.js Driver
+- Node.js server app samples
+
 ## to be updated
