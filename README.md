@@ -18,4 +18,9 @@
 - MongoDB Node.js Driver
 - Node.js server app samples
 
+## lab06
+- Use Node.js to handle HTTP Requests
+- Node.js MongoDB server
+- Get Started with Mongoose
+
 ## to be updated
