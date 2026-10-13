@@ -1,0 +1,13 @@
+{
+    "name": "server",
+    "description": "Node Express App",
+    "author": "Cloud381 Instructor",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "*"
+    },
+    "engine": "*",
+    "scripts": {
+        "start": "node server"
+    }
+}
