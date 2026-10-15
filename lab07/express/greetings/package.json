@@ -4,10 +4,11 @@
     "author": "Cloud381 Instructor",
     "version": "0.0.1",
     "dependencies": {
-        "express": "*"
+        "express": "*",
+      "nodemon": "3.1.7"
     },
     "engine": "*",
     "scripts": {
-        "start": "node server"
+        "start": "nodemon server"
     }
 }
