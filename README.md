@@ -23,4 +23,13 @@
 - Node.js MongoDB server
 - Get Started with Mongoose
 
+## lab07 
+- Get started with Express
+- Explore `express.static`
+
+## lab08
+- Express Middlewares
+- Get Started With RESTful Services
+- Cookie Session Examples
+
 ## to be updated
