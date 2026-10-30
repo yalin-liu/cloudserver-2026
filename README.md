@@ -32,4 +32,8 @@
 - Get Started With RESTful Services
 - Cookie Session Examples
 
+## lab09
+- RESTful CRUD Services 
+- An OAuth app sample - use `passport-facebook`
+
 ## to be updated
