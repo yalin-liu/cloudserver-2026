@@ -1,0 +1,12 @@
+{
+	"name": "middleware",
+	"description": "Express - middleware template",
+	"version": "0.0.1",
+	"dependencies": {
+		"nodemon":"*",
+		"express": "latest"
+	},
+	"scripts": {
+		"start": "nodemon server.js"
+	}
+}
